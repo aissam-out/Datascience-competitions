@@ -9,4 +9,4 @@ The goal of this project is to predict the binary class heart_disease_present, w
 
 The dataset is is one of the smallest datasets on DrivenData.org .. It contains 14 columns, the first one -patient_id- is a unique and random identifier.
 
-This project is part of the heart disease competition in DrivenData, for more information please visit this link https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/
+This project is part of the heart disease competition in DrivenData, for more information please visit this link https://www.drivendata.org/competitions/54/machine-learning-with-a-heart/ 
